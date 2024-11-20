@@ -1,0 +1,30 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    background-color: #FBFBFB;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.lead {
+    font-size: 1.2rem;
+}
+
+.highlight {
+    color: #BC7C7C;
+    font-weight: 600;
+}
+
+#prashantSection {
+    border-radius: 10px;
+    background-color: #A6AEBF;
+    padding: 15px;
+    margin: 10px 0;
+}
+
