@@ -28,3 +28,10 @@ header {
     margin: 10px 0;
 }
 
+#JohnSection {
+    border-radius: 10px;
+    background-color: hsla(217, 90%, 61%);
+    padding: 15px;
+    margin: 10px 0
+}
+
