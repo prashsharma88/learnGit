@@ -35,13 +35,12 @@ header {
     margin: 10px 0
 }
 
-#JohnSection {
+#hansSection { 
     border-radius: 10px;
-    background-color: hsla(217, 90%, 61%);
+    background-color: rgb(165, 43, 165);
     padding: 15px;
-    margin: 10px 0
+    margin: 15px 0;
 }
-
 #name{
     background-color: aquamarine;
     padding: 10px;
