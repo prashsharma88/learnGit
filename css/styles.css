@@ -21,9 +21,10 @@ header {
     font-weight: 600;
 }
 
-#prashantSection {
+#enzoSection {
     border-radius: 10px;
-    background-color: #A6AEBF;
+    font-style: italic;
+    background-color: #6493f7;
     padding: 15px;
     margin: 10px 0;
 }
