@@ -34,7 +34,14 @@ header {
     padding: 10px;
     margin: 10px 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}#name{
+    
+}#hansSection { 
+    border-radius: 10px;
+    background-color: rgb(165, 43, 165);
+    padding: 15px;
+    margin: 15px 0;
+}
+#name{
     background-color: aquamarine;
     padding: 10px;
     margin: 10px 0;
