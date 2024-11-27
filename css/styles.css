@@ -28,6 +28,20 @@ header {
     margin: 10px 0;
 }
 
+#JohnSection {
+    border-radius: 10px;
+    background-color: hsla(217, 90%, 61%);
+    padding: 15px;
+    margin: 10px 0
+}
+
+#JohnSection {
+    border-radius: 10px;
+    background-color: hsla(217, 90%, 61%);
+    padding: 15px;
+    margin: 10px 0
+}
+
 #MatthewBelsham {
     border-radius: 10px;
     background-color: #BC7C7C;
@@ -59,4 +73,10 @@ header {
 	background-color: #57bae8;
 	padding: 15px;
 	margin: 10px 0;
+}
+#Kevant {
+    border-radius: 10px;
+    background-color: #c43f3f;
+    padding: 15px;
+    margin: 10px 0;
 }
